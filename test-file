@@ -1,0 +1,12 @@
+
+
+ 
+
+  
+
+Error: Unsupported argument
+
+  on module.tf line 17, in module "db":
+  17:   apply_immediately   = true
+
+An argument named "apply_immediately" is not expected here.
